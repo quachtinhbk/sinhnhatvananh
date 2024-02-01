@@ -1,5 +1,6 @@
 body {
 	background-color: #FFDAB9;	
+	background-image: url('va1.jpg');
 	/* background-color: #000; */
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
@@ -10,11 +11,10 @@ body {
 }
 .container {
 	display: none;
-	background-image: url('va1.jpg');
 }
 .peach {
 	background-color: #FFDAB9;
-	
+	background-image: url('va2.jpg');
 }
 .peach-after {
 	-webkit-animation:peach_alive linear 8s infinite;
